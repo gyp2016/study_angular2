@@ -134,7 +134,7 @@ $ cd study_angular2
 })(this);
 ```
 
-## c 패키지 설치
+## (c) 패키지 설치
 ```
 $ npm install
 ```
