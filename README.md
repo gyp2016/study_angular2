@@ -1,4 +1,4 @@
-# Angular 2 for TypeScript
+# Angular 2 for TypeScript: 한글 문서
 
 [5 MIN QUICKSTART](https://angular.io/docs/ts/latest/quickstart.html)
 
