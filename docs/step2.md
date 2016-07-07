@@ -17,6 +17,6 @@ import { Component } from '@angular/core';
 export class AppComponent { }
 ```
 
-- 한개 혹의 이상의 import는 우리가 필요한 레퍼런스들을 알린다.
-- @Component 데토레이터는 어떤 템플릿을 사용하고 컴포넌트를 어떻게 만들지 Angular에게 알려준다.
-- 컴포넌트 class는 템플릿을 통해서 뷰의 행동와 외형을 조절한다.
+- 한개 혹의 이상의 `import`는 우리가 필요한 레퍼런스들을 알린다.
+- `@Component` 데코레이터는 어떤 템플릿을 사용하고 컴포넌트를 어떻게 만들지 Angular에게 알려준다.
+- 컴포넌트 `class는` 템플릿을 통해서 뷰의 행동와 외형을 조절한다.
