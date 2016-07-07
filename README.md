@@ -138,15 +138,15 @@ $ cd study_angular2
 })(this);
 ```
 
-### c 인스톨 패키지
+### c 패키지 설치
 ```
 $ npm install
 ```
 
 유용한 스크립트들
-- npm start - 컴파일러와 서버를 동시에 실행한다. 둘다 watch 모드로
-- npm run tsc - TypeScript 컴파일러를 한번만 실행한다.
-- npm run tsc:w - TypeScript 컴파일러를 watch 모드로 실행한다; 프로세스 실행을 유지하며, TypeScript 파일들의 변경을 기다리다가 재컴파일을 한다.
-- npm run lite - lite-server를 실행한다, 경량, 정적파일 서버로 routing을 사용하는 앵귤러 앱을 굉장히 잘 지원한다.
-- npm run typings - typings 툴을 분리 실행한다.
-- npm run postinstall - 패키지 인스톨을 성공적으로 실행 한 후에 자동으로 호출된다. 이 스크립트는 `typings.json` 에 정의된 TypeScript 설정 파일들을 인스톨한다.
+- `npm start` - 컴파일러와 서버를 동시에 실행한다. 둘다 watch 모드로
+- `npm run tsc` - TypeScript 컴파일러를 한번만 실행한다.
+- `npm run tsc:w` - TypeScript 컴파일러를 watch 모드로 실행한다; 프로세스 실행을 유지하며, TypeScript 파일들의 변경을 기다리다가 재컴파일을 한다.
+- `npm run lite` - lite-server를 실행한다, 경량, 정적파일 서버로 routing을 사용하는 앵귤러 앱을 굉장히 잘 지원한다.
+- `npm run typings` - typings 툴을 분리 실행한다.
+- `npm run postinstall` - 패키지 설치가 성공적으로 실행된 후 자동으로 호출된다. 이 스크립트는 `typings.json` 에 정의된 TypeScript 설정 파일들을 설치한다.
