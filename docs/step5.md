@@ -8,3 +8,23 @@ $ npm start
 
 1. TypeScript 컴파일러를 watch 모드로
 2. 브라우저에 `index.html`을 로드하고, 애플리케이션 파일이 변경될 때 브라우저를 새로고침하는 lite-server 정적 서버
+
+
+# Make some changes
+
+# Wrap up
+
+```
+/angular2-quickstart
+  /app
+    -app.component.ts
+    -main.ts
+  /node_modules ...
+  /typings ...
+  -index.html
+  -package.json
+  -styles.css
+  -systemjs.config.js
+  -tsconfig.json
+  -typings.json
+```
